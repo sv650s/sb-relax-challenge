@@ -1,0 +1,24 @@
+name: relax
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+dependencies:
+  - autopep8
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pandas-datareader
+  - pip
+  - python>=3.7.0
+  - pyyaml
+  - scikit-learn
+  - statsmodels
+  - scipy
+  - seaborn
+  - virtualenv
+prefix: /Users/vinceluk/Dropbox/0_springboard/18-effective_interviewing/18.2.3-relax_challenge
+
